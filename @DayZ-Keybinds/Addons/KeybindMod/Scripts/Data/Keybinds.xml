@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="Keybind1" loc="Keybind 1 Name" />
+            <input name="Keybind2" loc="Keybind 2 Name" />
+        </actions>
+		<sorting name="kybnd" loc="Keybind Test">
+			<input name="Keybind1"/>
+			<input name="Keybind2"/>
+		</sorting>
+    </inputs>
+    <preset>
+        <input name="Keybind1">
+            <btn name="" />
+        </input>
+        <input name="Keybind2">
+            <btn name="" />
+        </input>
+    </preset>
+</modded_inputs>
